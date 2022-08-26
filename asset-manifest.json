@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Springs/static/css/main.b966444e.css",
+    "main.js": "/Springs/static/js/main.938325ec.js",
+    "static/media/p2.jpg": "/Springs/static/media/p2.3be6c1b7bee0e2a08b10.jpg",
+    "static/media/navigation.png": "/Springs/static/media/navigation.5e0ec1a8572dab721012.png",
+    "static/media/parking-ticket.png": "/Springs/static/media/parking-ticket.6231779353d7625eba7c.png",
+    "index.html": "/Springs/index.html",
+    "main.b966444e.css.map": "/Springs/static/css/main.b966444e.css.map",
+    "main.938325ec.js.map": "/Springs/static/js/main.938325ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b966444e.css",
+    "static/js/main.938325ec.js"
+  ]
+}
